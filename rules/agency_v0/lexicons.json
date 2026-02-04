@@ -1,0 +1,30 @@
+{
+  "outcome_verbs": [
+    "increase", "grow", "boost", "improve", "scale", "optimize", "maximize",
+    "reduce", "save", "accelerate", "enhance", "drive", "streamline", "deliver"
+  ],
+  "speed_words": ["fast", "quick", "quickly", "rapid", "rapidly", "instantly", "real-time", "realtime"],
+  "hedges": [
+    "help", "can", "may", "might", "often", "typically", "designed to", "aims to",
+    "enable", "enables", "supports", "support", "seamless", "robust", "flexible",
+    "scalable", "tailored", "custom"
+  ],
+  "superlatives": ["best", "best-in-class", "leading", "#1", "unmatched", "unrivaled", "world-class", "award-winning"],
+  "proof_theater": ["trusted by", "used by", "proven", "results-driven", "worth recommending", "industry standard", "millions of"],
+  "buzzwords": [
+    "ai-powered", "cutting-edge", "next-gen", "end-to-end", "full-funnel", "holistic",
+    "synergy", "growth engine", "proprietary framework", "data-driven", "enterprise-grade"
+  ],
+  "mechanism_tokens": [
+    "google ads", "search ads", "display", "remarketing", "retargeting", "meta ads", "facebook ads",
+    "instagram", "linkedin", "tiktok", "keyword research", "ad account", "campaign structure",
+    "landing page", "conversion rate", "cvr", "ctr", "cpc", "cpa", "roas", "ltv", "cac",
+    "a/b test", "ab test", "creative testing", "tracking", "analytics", "ga4", "tag manager",
+    "technical seo", "schema", "internal links", "content", "wordpress", "page speed"
+  ],
+  "values_language": [
+    "customer experience", "long-term", "relationships", "partnership",
+    "quality", "trust", "transparency", "integrity", "commitment",
+    "smooth", "excellence", "collaboration", "value"
+  ]
+}
