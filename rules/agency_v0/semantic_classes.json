@@ -1,0 +1,6 @@
+{
+  "values_non_operational": {
+    "requires": ["values_present"],
+    "forbids": ["metric_present", "mechanism_present", "timeframe_present"]
+  }
+}
