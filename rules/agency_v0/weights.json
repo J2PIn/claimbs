@@ -1,0 +1,24 @@
+{
+  "penalties": {
+    "outcome_without_metric": 15,
+    "speed_without_timeframe": 10,
+    "outcome_without_baseline": 8,
+    "outcome_without_scope": 5,
+
+    "proof_implied_no_evidence": 15,
+
+    "buzzword_no_mechanism": 10,
+    "outcome_without_mechanism": 12,
+    "process_no_levers": 6,
+
+    "passive_voice": 6,
+    "superlative_unbounded": 8
+  },
+  "bonuses": {
+    "metric_present": 10,
+    "timeframe_present": 8,
+    "baseline_present": 6,
+    "mechanism_present": 10,
+    "scope_present": 5
+  }
+}
