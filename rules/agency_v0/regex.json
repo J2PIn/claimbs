@@ -1,0 +1,7 @@
+{
+  "number_unit": "(\\b\\d+(\\.\\d+)?\\b)\\s?(%|pp|x|€|\\$|hours?|days?|weeks?|months?|mqls?|sqls?|leads?|roas|cvr|ctr|cpc|cpa|ltv|cac|nps)\\b",
+  "timeframe": "\\b(in|within|over|by)\\s+\\d+\\s+(days?|weeks?|months?|quarters?|years?)\\b|\\bby\\s+q[1-4]\\b|\\bby\\s+\\d{4}\\b",
+  "baseline": "\\b(from|vs\\.?|versus|compared to|baseline)\\b",
+  "scope": "\\b(for|with|among)\\s+([a-z0-9\\- ]+?)\\b(companies|teams|stores|clients|businesses|brands)\\b",
+  "passive": "\\b(was|were|is|are|been|being)\\b\\s+\\w+ed\\b"
+}
