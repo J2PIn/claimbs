@@ -1,0 +1,7 @@
+name = "claimbullshit"
+main = "src/index.ts"
+compatibility_date = "2026-02-04"
+workers_dev = true
+
+[build]
+command = "npm run build"
